@@ -152,16 +152,6 @@ def write2file(ssl_dict):
     wbk.save('/tmp/test.xls')
 
 if __name__ == "__main__":
-    sp_list = [
-        "https://qqservice.spdbccc.com.cn",
-        "https://cas.spdbccc.com.cn",
-        "https://wechatapp.spdbccc.com.cn",
-        "https://pufalicheng.spdbccc.com.cn",
-        "https://customerba.spdbccc.com.cn",
-        "https://picload.spdbccc.com.cn",
-        "https://weixin.spdbccc.com.cn",
-        "https://image.spdbccc.com.cn"
-    ]
     args = get_cmd_args()
     domain_name = args.domain_name
     format_domain = format_domain_name(domain_name)
