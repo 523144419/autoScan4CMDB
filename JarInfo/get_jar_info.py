@@ -4,7 +4,7 @@ import json
 import sys
 import commands
 import logging
-from infodate.softinfo import *
+from softinfo import *
 import copy
 
 jvm_parm = {
