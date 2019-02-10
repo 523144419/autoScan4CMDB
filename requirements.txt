@@ -1,0 +1,6 @@
+##兼容平台
+  linux
+##python版本
+  python2.6.6以上，python3未测试
+##脚本依赖
+  softinfo
