@@ -10,6 +10,10 @@ CMDB中各类中间件的CI扫描
   ### pip install softinfo==0.2
 ### -- Usages:
   python ssl_verification_check.py -d “https://www.baidu.com,https://126.com”
+### -- 脚本执行结果
+![image](https://raw.githubusercontent.com/523144419/autoScan4CMDB/master/images/image_ssl_verification_check.png)
+### -- exexl结果文件内容
+![image](https://raw.githubusercontent.com/523144419/autoScan4CMDB/master/images/image_ssl_verification_check_execl.png)
   
 ## 脚本名称：get_jar_info.py
 
