@@ -22,3 +22,14 @@ CMDB中各类中间件的CI扫描
 ### -- Usages:
   python get_jar_info.py
   
+## 脚本名称：get_tomcat_ci.py
+
+### -- 功能：
+  #### 1、获取系统运行中的tomcat中间件的jvm属性、jmx信息以及进程信息
+  #### 2、已json格式输出
+  #### 3、如没有运行中的进程则默认输出用已标识
+### -- 依赖：
+  ### pip install softinfo==0.2
+### -- Usages:
+  python get_tomcat_ci.py
+  
