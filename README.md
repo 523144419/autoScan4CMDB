@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/build-passing-green.svg)
+[![](https://img.shields.io/badge/pypi-0.2-blue.svg)](https://pypi.org/project/softinfo/)
 # autoScan4CMDB
 CMDB中各类中间件的CI扫描
 
